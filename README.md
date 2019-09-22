@@ -1,0 +1,2 @@
+- 切记执行```composer dump-autoload```
+- ```"slim/pdo": "^1.10"```可以删除
