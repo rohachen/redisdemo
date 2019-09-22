@@ -1,0 +1,13 @@
+
+{
+    "require": {
+        "predis/predis": "^1.1",
+        "slim/pdo": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Crh\\": "vendor/crh"
+        }
+    }
+
+}
